@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "digitify-4ae4b": {
+      "hosting": {
+        "Digitify": [
+          "digitify-4ae4b"
+        ]
+      }
+    }
+  }
+}
